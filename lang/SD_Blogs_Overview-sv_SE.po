@@ -1,0 +1,216 @@
+# SD Count Per Day Overview
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SD Count Per Day Overview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-12 10:58+0200\n"
+"PO-Revision-Date: 2012-01-20 09:21+0100\n"
+"Last-Translator: Edward <edward@mindreantre.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SD_Blogs_Overview.php:394
+msgid "Also store transient options that start with underscores."
+msgstr "Spara temporära alternativ (som börjar med understreck)."
+
+#: SD_Blogs_Overview.php:252
+msgid "Apply"
+msgstr "Verkställ"
+
+#: SD_Blogs_Overview.php:294
+msgid "Blog"
+msgstr "Blog"
+
+#: SD_Blogs_Overview.php:159
+msgid "Collect data"
+msgstr "Samla data"
+
+#: SD_Blogs_Overview.php:393
+msgid "Collect transients"
+msgstr "Samla temporära alternativ"
+
+#: SD_Blogs_Overview.php:355
+msgid "Copies this value to all of the selected blogs"
+msgstr "Kopierar värdet till samtliga valda bloggar"
+
+#: SD_Blogs_Overview.php:354
+msgid "Copy to all marked blogs"
+msgstr "Kopiera till alla valda bloggar"
+
+#: SD_Blogs_Overview.php:269
+msgid "Delete empty options"
+msgstr "Ta bort tomma alternativ"
+
+#: SD_Blogs_Overview.php:244
+msgid "Delete visible options"
+msgstr "Ta bort synliga alternativ"
+
+#: SD_Blogs_Overview.php:243
+msgid "Do nothing"
+msgstr "Gör inget"
+
+#: SD_Blogs_Overview.php:245
+msgid "Edit"
+msgstr "Redigera"
+
+#: SD_Blogs_Overview.php:270
+msgid "If an option is left empty, delete the option completely from the selected blog?"
+msgstr "Om ett alternativ lämnas tomt, ta bort alternativet helt från den valda bloggen?"
+
+#: SD_Blogs_Overview.php:308
+msgid "Javascript tools"
+msgstr "Javaskriptverktyg"
+
+#: SD_Blogs_Overview.php:229
+#, php-format
+msgid "Last update: <span title=\"%s\">%s</span>"
+msgstr "Senaste uppdatering: <span title=\"%s\">%s</span>"
+
+#: SD_Blogs_Overview.php:401
+msgid "Maximum option length"
+msgstr "Alternativmaxläng"
+
+#: SD_Blogs_Overview.php:402
+msgid "Options with strings longer than this value are ignored."
+msgstr "Alternativ med text längre än det här värdet ignoreras."
+
+#: SD_Blogs_Overview.php:79
+msgid "Overview"
+msgstr "Översikt"
+
+#: SD_Blogs_Overview.php:183
+msgid "P"
+msgstr "P"
+
+#: SD_Blogs_Overview.php:183
+msgid "Panel"
+msgstr "Panel"
+
+#: SD_Blogs_Overview.php:334
+msgid "Replace"
+msgstr "Ersätt"
+
+#: SD_Blogs_Overview.php:320
+msgid "Replace this text"
+msgstr "Ersätt den här texten"
+
+#: SD_Blogs_Overview.php:342
+msgid "Replaces the text in the selected options."
+msgstr "Ersätter text i de valda alternativen."
+
+#: SD_Blogs_Overview.php:61
+#: SD_Blogs_Overview.php:62
+msgid "SD Blogs overview"
+msgstr "SD Bloggöversikt"
+
+#: SD_Blogs_Overview.php:282
+msgid "Save"
+msgstr "Spara"
+
+#: SD_Blogs_Overview.php:340
+msgid "Search and replace"
+msgstr "Sök och ersätt"
+
+#: SD_Blogs_Overview.php:293
+msgid "Selected"
+msgstr "Vald"
+
+#: SD_Blogs_Overview.php:82
+msgid "Settings"
+msgstr "Inställningar"
+
+#: SD_Blogs_Overview_Base.php:409
+msgid "Super admin"
+msgstr "Nätverksadmin"
+
+#: SD_Blogs_Overview.php:104
+msgid "The data has been collected from all the blogs!"
+msgstr "Data har samlats från alla bloggar!"
+
+#: SD_Blogs_Overview.php:310
+msgid "The following buttons use javascript to help edit values."
+msgstr "Följande knappar använder javaskript för att redigera värden."
+
+#: SD_Blogs_Overview.php:122
+msgid "The options have been set on the selected blogs."
+msgstr "Alternativen har ändrats på valda bloggar."
+
+#: SD_Blogs_Overview.php:384
+msgid "The settings have been updated!"
+msgstr "Inställningarna har uppdaterats!"
+
+#: SD_Blogs_Overview.php:139
+msgid "The visible options have been deleted from the selected blogs."
+msgstr "De synliga alternativen har tagits bort från de valda bloggarna."
+
+#: SD_Blogs_Overview.php:85
+msgid "Uninstall"
+msgstr "Avinstallera"
+
+#: SD_Blogs_Overview.php:419
+msgid "Update settings"
+msgstr "Uppdatera inställningar"
+
+#: SD_Blogs_Overview.php:408
+msgid "Visible options"
+msgstr "Synliga alternativ"
+
+#: SD_Blogs_Overview.php:409
+msgid "Which options to show in the overview."
+msgstr "Vilka alternativ att visa i översikten."
+
+#: SD_Blogs_Overview.php:241
+msgid "With the selected rows"
+msgstr "Med valda rader gör"
+
+#: SD_Blogs_Overview.php:328
+msgid "With this text"
+msgstr "Med den här texten"
+
+#~ msgid ""
+#~ "Click on the column headers to sort the data. The data can be copied and "
+#~ "pasted directly into a spreadsheet."
+#~ msgstr ""
+#~ "Klicka på kolumnrubriken för att sortera datan. Innehållet kan kopieras "
+#~ "och klistras rakt in i ett kalkylblad."
+#~ msgid "Hidden blogs"
+#~ msgstr "Gömda bloggar"
+#~ msgid ""
+#~ "How long to wait between data collections. Note that this is very "
+#~ "database-intensive and should be set to a high value of at least several "
+#~ "hours."
+#~ msgstr ""
+#~ "Hur länge tillägget väntar mellan datasamlingar. Observera att detta är "
+#~ "väldigt ansträngande mot databasen och bör sättas till ett väldigt högt "
+#~ "värde på minst ett par timmar."
+#~ msgid "Minutes between collections"
+#~ msgstr "Minuter mellan samlingar"
+#~ msgid "Reads last week"
+#~ msgstr "Läsningar förra veckan"
+#~ msgid "Reads today"
+#~ msgstr "Läsningar idag"
+#~ msgid "Reads yesterday"
+#~ msgstr "Läsningar igår"
+#~ msgid ""
+#~ "This plugin is useless without Count Per Day, which isn't installed. "
+#~ msgstr ""
+#~ "Det här tillägget är värdelöst utan Count Per Day, som inte hittades "
+#~ "installerat."
+#~ msgid "Total reads"
+#~ msgstr "Läsningar totalt"
+#~ msgid "What is the minimum use role needed to view the overview?"
+#~ msgstr "Vad är minimumbehörighetsgraden för att se översikten?"
+#~ msgid ""
+#~ "Which blogs should be hidden in the overview from all users except "
+#~ "network admins?"
+#~ msgstr ""
+#~ "Vilka bloggar ska gömmas i översikten från alla användarna förutom "
+#~ "nätverksadminstratörerna?"
+

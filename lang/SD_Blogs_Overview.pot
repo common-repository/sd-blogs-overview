@@ -1,0 +1,174 @@
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SD Blogs Overview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-12 10:58+0200\n"
+"PO-Revision-Date: 2011-12-12 10:58+0200\n"
+"Last-Translator: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SD_Blogs_Overview.php:394
+msgid "Also store transient options that start with underscores."
+msgstr ""
+
+#: SD_Blogs_Overview.php:252
+msgid "Apply"
+msgstr ""
+
+#: SD_Blogs_Overview.php:294
+msgid "Blog"
+msgstr ""
+
+#: SD_Blogs_Overview.php:159
+msgid "Collect data"
+msgstr ""
+
+#: SD_Blogs_Overview.php:393
+msgid "Collect transients"
+msgstr ""
+
+#: SD_Blogs_Overview.php:355
+msgid "Copies this value to all of the selected blogs"
+msgstr ""
+
+#: SD_Blogs_Overview.php:354
+msgid "Copy to all marked blogs"
+msgstr ""
+
+#: SD_Blogs_Overview.php:269
+msgid "Delete empty options"
+msgstr ""
+
+#: SD_Blogs_Overview.php:244
+msgid "Delete visible options"
+msgstr ""
+
+#: SD_Blogs_Overview.php:243
+msgid "Do nothing"
+msgstr ""
+
+#: SD_Blogs_Overview.php:245
+msgid "Edit"
+msgstr ""
+
+#: SD_Blogs_Overview.php:270
+msgid "If an option is left empty, delete the option completely from the selected blog?"
+msgstr ""
+
+#: SD_Blogs_Overview.php:308
+msgid "Javascript tools"
+msgstr ""
+
+#: SD_Blogs_Overview.php:229
+#, php-format
+msgid "Last update: <span title=\"%s\">%s</span>"
+msgstr ""
+
+#: SD_Blogs_Overview.php:401
+msgid "Maximum option length"
+msgstr ""
+
+#: SD_Blogs_Overview.php:402
+msgid "Options with strings longer than this value are ignored."
+msgstr ""
+
+#: SD_Blogs_Overview.php:79
+msgid "Overview"
+msgstr ""
+
+#: SD_Blogs_Overview.php:183
+msgid "P"
+msgstr ""
+
+#: SD_Blogs_Overview.php:183
+msgid "Panel"
+msgstr ""
+
+#: SD_Blogs_Overview.php:334
+msgid "Replace"
+msgstr ""
+
+#: SD_Blogs_Overview.php:320
+msgid "Replace this text"
+msgstr ""
+
+#: SD_Blogs_Overview.php:342
+msgid "Replaces the text in the selected options."
+msgstr ""
+
+#: SD_Blogs_Overview.php:61 SD_Blogs_Overview.php:62
+msgid "SD Blogs overview"
+msgstr ""
+
+#: SD_Blogs_Overview.php:282
+msgid "Save"
+msgstr ""
+
+#: SD_Blogs_Overview.php:340
+msgid "Search and replace"
+msgstr ""
+
+#: SD_Blogs_Overview.php:293
+msgid "Selected"
+msgstr ""
+
+#: SD_Blogs_Overview.php:82
+msgid "Settings"
+msgstr ""
+
+#: SD_Blogs_Overview_Base.php:409
+msgid "Super admin"
+msgstr ""
+
+#: SD_Blogs_Overview.php:104
+msgid "The data has been collected from all the blogs!"
+msgstr ""
+
+#: SD_Blogs_Overview.php:310
+msgid "The following buttons use javascript to help edit values."
+msgstr ""
+
+#: SD_Blogs_Overview.php:122
+msgid "The options have been set on the selected blogs."
+msgstr ""
+
+#: SD_Blogs_Overview.php:384
+msgid "The settings have been updated!"
+msgstr ""
+
+#: SD_Blogs_Overview.php:139
+msgid "The visible options have been deleted from the selected blogs."
+msgstr ""
+
+#: SD_Blogs_Overview.php:85
+msgid "Uninstall"
+msgstr ""
+
+#: SD_Blogs_Overview.php:419
+msgid "Update settings"
+msgstr ""
+
+#: SD_Blogs_Overview.php:408
+msgid "Visible options"
+msgstr ""
+
+#: SD_Blogs_Overview.php:409
+msgid "Which options to show in the overview."
+msgstr ""
+
+#: SD_Blogs_Overview.php:241
+msgid "With the selected rows"
+msgstr ""
+
+#: SD_Blogs_Overview.php:328
+msgid "With this text"
+msgstr ""
